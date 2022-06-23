@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/zepedrotrigo?template=classic&base.metadata=0&isocalendar=1&languages=1&introduction=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.ignored=html%2C%20css%2C%20scss%2C%20lua&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Europe%2FLondon)
+![Metrics](https://metrics.lecoq.io/zepedrotrigo?template=classic&base.metadata=0&isocalendar=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&config.timezone=Europe%2FLondon)
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepedrotrigo&show_icons=true&layout=compact&theme=light&langs_count=8&hide=html,css,scss,lua,c%23,css&card_width=260" />
