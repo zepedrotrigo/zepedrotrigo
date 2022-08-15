@@ -1,22 +1,24 @@
-![Metrics](https://metrics.lecoq.io/zepedrotrigo?template=classic&base.metadata=0&isocalendar=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&config.timezone=Europe%2FLondon)
+### Hi there 👋
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepedrotrigo&show_icons=true&layout=compact&theme=light&langs_count=8&hide=html,css,scss,lua,c%23,css&card_width=260" />
-  <img height="189" style="margin-left:5px;" src="https://github-profile-trophy.vercel.app/?username=zepedrotrigo&theme=light&margin-w=5&margin-h=5&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B" />
+<div id="badges" align="center">
+    <a href="https://github.com/zepedrotrigo" target="_blank">
+        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/jose-trigo/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://www.zepedrotrigo.com" target="_blank">
+        <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
 </div>
 
-
-<!--
-**zepedrotrigo/zepedrotrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools:
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
