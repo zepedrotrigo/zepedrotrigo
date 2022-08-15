@@ -15,6 +15,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
+### Find me on:
+
 <div id="badges" align="center">
     <a href="https://github.com/zepedrotrigo" target="_blank">
         <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"/>
